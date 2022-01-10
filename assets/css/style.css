@@ -237,30 +237,14 @@ footer p {
     font-size: 14px;
 }
 
-/* @media screen and (min-width:992) {
-    
+@media screen and (min-width: 1756px) {
+    .cards {
+        max-width: 75%;
+    }
 }
 
-@media screen and (max-width: 992px) {
-
-}
-*/
 @media screen and (max-width: 768px) {
-    header,
-    main {
-        flex-direction: column;
-    }
-
-    section {
-        padding-right: 0;
-    }
-
-    aside {
-        width:100%;
-        text-align:center
-    }
-    .content2 {
-        display: flex;
+    header {
         flex-direction: column;
     }
 }
