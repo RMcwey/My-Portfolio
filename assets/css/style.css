@@ -67,7 +67,6 @@ nav a:hover {
     background-image: url(../images/wide.jpg);
     background-size: cover;
     height: 300px;
-    width: 100;
 }
 
 .img-text {
@@ -82,7 +81,7 @@ nav a:hover {
 
 .item {
     display: flex;
-    /* width: 90%; */
+    width: 90%;
     margin: 2%;
     justify-content: center;
     justify-self: center;
@@ -174,7 +173,6 @@ nav a:hover {
 
 .sml-card img {
     max-width: 350px;
-    min-width: none;
     margin: 5px;
 }
 
@@ -214,11 +212,6 @@ nav a:hover {
     font-size: x-large;
 
 }
-
-.content3 ul li {
-   
-}
-
 
 .content3 ul a {
     color: lightgray;
