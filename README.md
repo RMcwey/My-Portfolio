@@ -7,3 +7,4 @@ I am the lead and sole designer and creator. I have made the page semantically c
 ![_C__Users_rmcwe_Github_My-Portfolio_index html](https://user-images.githubusercontent.com/95650769/148724059-7f313466-c9bb-449f-9e95-f02693cdc4b5.png)
 https://watch.screencastify.com/v/PFYHiVmk5IooqFkmcPUM
 5. Link to the page
+https://rmcwey.github.io/My-Portfolio/
