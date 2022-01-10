@@ -4,4 +4,6 @@ This is my portfolio page! It has placeholder images and functional links to pla
 2. My Role
 I am the lead and sole designer and creator. I have made the page semantically correct and made suer that the functionality fits the acceptance criteria and user story. 
 3. Screen Shot of Functioning Page
-4. Link to the page
+![_C__Users_rmcwe_Github_My-Portfolio_index html](https://user-images.githubusercontent.com/95650769/148724059-7f313466-c9bb-449f-9e95-f02693cdc4b5.png)
+https://watch.screencastify.com/v/PFYHiVmk5IooqFkmcPUM
+5. Link to the page
