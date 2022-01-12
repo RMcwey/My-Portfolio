@@ -247,4 +247,27 @@ footer p {
     header {
         flex-direction: column;
     }
+    nav ul {
+        flex-direction: column;
+    }
+    .item {
+        flex-direction:column;
+    }
+    .heading {
+        align-self: center;
+    }
+    .sml-cards {
+        align-items: center;
+    }
+    .content3 ul {
+        flex-direction: column;
+        align-content: center;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .sml-card img {
+        max-height: 90px;
+    }
 }
