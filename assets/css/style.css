@@ -22,6 +22,7 @@ header a:hover {
     color: cadetblue;
     background-color: cyan;
     text-decoration: underline cadetblue;
+    border-radius: 20px;
 }
 
 h1 {
@@ -51,6 +52,7 @@ nav a:hover {
     color: cadetblue;
     background-color: cyan;
     text-decoration: underline cadetblue;
+    border-radius: 20px;
 }
 
 .img-container img {
@@ -132,6 +134,7 @@ nav a:hover {
 
 .main-card:hover {
     opacity: 100%;
+    border-radius: 20px;
 }
 
 .main-card img {
@@ -175,6 +178,7 @@ nav a:hover {
 
 .sml-card:hover {
     opacity: 100%;
+    border-radius: 20px;
 }
 
 .sml-card img {
@@ -239,6 +243,7 @@ nav a:hover {
 .content3 ul a:hover {
     background-color: lightskyblue;
     color: black;
+    border-radius: 20px;
 }
 
 footer {
