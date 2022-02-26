@@ -48,12 +48,12 @@ nav a {
     font-size: 150%;
 }
 
-nav a:hover {
+/* nav a:hover {
     color: cadetblue;
     background-color: cyan;
     text-decoration: underline cadetblue;
     border-radius: 20px;
-}
+} */
 
 .img-container img {
     display: block;
