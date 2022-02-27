@@ -10,7 +10,9 @@ I am the lead and sole designer and creator. I have made the page semantically c
 * CSS
 * JavaScript
 <br>
+
 ### 4. Screen Shot of Functioning Page: 
+
 ![_C__Users_rmcwe_Github_My-Portfolio_index html (3)](https://user-images.githubusercontent.com/95650769/155868792-c03c5d0e-0e02-4f5c-b26f-15570218eea2.png)
 <br>
 
