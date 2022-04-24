@@ -134,7 +134,8 @@ nav a {
 
 .main-card:hover {
     opacity: 100%;
-    border-radius: 20px;
+    border-radius: 5px;
+    background-color: aquamarine;
 }
 
 .main-card img {
@@ -155,11 +156,69 @@ nav a {
     box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
+.main-card button:hover {
+    background-color:aquamarine;
+    color: darkblue;
+}
+
 .main-card-txt p {
-    font-size: 12px;
-    color: darkgray;
+    font-size: 14px;
+    color: white;
     text-align: center;
     text-decoration: underline;
+}
+.main-card-txt p:hover {
+    opacity: 100%;
+    border-radius: 20px;
+    color: darkblue;
+}
+
+.second-card {
+    position: relative;
+    padding: 10px;
+    opacity: 40%;
+}
+
+.second-card:hover {
+    opacity: 100%;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+
+.second-card img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.second-card-txt {
+    position: absolute;
+    bottom: 8%;
+    left: 4%;
+    background-color: teal;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+    box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.second-card button:hover {
+    background-color:aquamarine;
+    color: darkblue;
+}
+
+.second-card-txt p {
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.second-card-txt p:hover {
+    opacity: 100%;
+    border-radius: 20px;
+    color:darkblue;
 }
 
 .sml-cards {
@@ -178,7 +237,8 @@ nav a {
 
 .sml-card:hover {
     opacity: 100%;
-    border-radius: 20px;
+    border-radius: 5px;
+    background-color: aquamarine;
 }
 
 .sml-card img {
@@ -201,11 +261,22 @@ nav a {
     box-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
+.sml-card button:hover {
+    background-color:aquamarine;
+    color: darkblue;
+}
+
 .sml-card-txt p {
-    font-size: 12px;
-    color: darkgray;
+    font-size: 14px;
+    color: white;
     text-align: center;
     text-decoration: underline;
+}
+
+.sml-card-txt p:hover {
+    opacity: 100%;
+    border-radius: 20px;
+    color: darkblue;
 }
 
 .card2 {
